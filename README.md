@@ -1,16 +1,17 @@
-## Hi there 👋
+# Laura Scherzberg
 
-<!--
-**laurascherzberg/laurascherzberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer who enjoys building practical, reliable solutions and collaborating on team projects.
 
-Here are some ideas to get you started:
+## What I do
+- Build and maintain software projects with a focus on clean, readable code
+- Work through problems end-to-end, from idea to implementation
+- Collaborate in Git-based workflows and contribute in team environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main technologies
+- Python
+- Git & GitHub
+- SQL
+- HTML/CSS/JavaScript
+
+## Contact
+- GitHub: [@laurascherzberg](https://github.com/laurascherzberg)
